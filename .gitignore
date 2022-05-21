@@ -1,0 +1,8 @@
+# Ignore dataset
+data/**
+
+# Ignore pretrained models
+saved_model/**
+
+# Ignore pycache
+__pycache__/
